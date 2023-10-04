@@ -12,6 +12,7 @@ public class SimpleMaven {
 		browser.waitForPageToLoad();
 		browser.maximize();
 		browser.quit();
+		//First change
 	}
 
 }
